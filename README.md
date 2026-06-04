@@ -317,37 +317,6 @@ Based on the analysis and model results:
 
 ---
 
-## Future Improvements
-
-This project can be improved further by:
-
-- Adding hyperparameter tuning
-- Using cross-validation
-- Testing more advanced models such as XGBoost
-- Adding SHAP values for model explainability
-- Creating a Streamlit web app for churn prediction
-- Including more customer behavior data such as support tickets or satisfaction scores
-- Improving preprocessing for text and date-based features
-
----
-
-## Key Learning Outcomes
-
-Through this project, I practiced:
-
-- Understanding a business problem
-- Performing exploratory data analysis
-- Preparing data for machine learning
-- Training classification models
-- Comparing model performance
-- Evaluating models using multiple metrics
-- Interpreting feature importance
-- Saving a trained model
-- Predicting churn risk for new customer data
-- Communicating results in a business-friendly way
-
----
-
 ## Author
 
 **Tharushi Karunarathne**
