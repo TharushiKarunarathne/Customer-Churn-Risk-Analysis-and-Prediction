@@ -224,6 +224,7 @@ The app displays:
 
 ```bash
 python -m streamlit run app.py
+```
 
 ## Project Structure
 
