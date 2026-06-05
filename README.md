@@ -202,6 +202,29 @@ This output can help a business identify customers who may need extra support or
 
 ---
 
+## Streamlit App
+
+This project includes a Streamlit web app that allows users to enter customer details and predict churn risk.
+
+The app takes the following inputs:
+
+- Customer age
+- Total purchase amount
+- Account manager status
+- Years with company
+- Number of sites
+
+The app displays:
+
+- Churn prediction
+- Churn probability
+- Risk interpretation
+
+### Run the Streamlit App
+
+```bash
+python -m streamlit run app.py
+
 ## Project Structure
 
 Customer-Churn-Risk-Analysis/
